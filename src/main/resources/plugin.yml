@@ -1,0 +1,8 @@
+name: Structuresmechanics
+version: '${project.version}'
+main: wuason.structuresmechanics.Structuresmechanics
+api-version: 1.14
+depend: [ WorldEdit ]
+authors: [ Wuason ]
+description: Create instant structures
+website: techmc.es
