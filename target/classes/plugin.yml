@@ -1,5 +1,5 @@
 name: Core
-version: '${project.version}'
+version: '1.0.1'
 main: wuason.structuresmechanics.Core
 api-version: 1.14
 depend: [ WorldEdit ]
